@@ -1,0 +1,4 @@
+[15-May-2019 18:19:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/bizzsalon/public_html/resources/views/index.blade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsalon/public_html/resources/views/index.blade.php on line 6

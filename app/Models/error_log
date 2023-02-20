@@ -1,0 +1,2 @@
+[15-May-2019 18:20:51 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/bizzsalon/public_html/app/Models/Appointment.php on line 8
+[16-May-2019 05:35:16 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/bizzsalon/public_html/app/Models/Appointment.php on line 8
